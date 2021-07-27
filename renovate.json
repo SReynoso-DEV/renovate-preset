@@ -4,5 +4,9 @@
   ],
   "baseBranches": ["updateDependencies"],
   "timezone": "America/Lima",
-  "schedule": ["after 1am and before 7am every day"]
+  "schedule": [
+    "after 10pm every weekday",
+    "before 5am every weekday",
+    "every weekend"
+  ]
 }
