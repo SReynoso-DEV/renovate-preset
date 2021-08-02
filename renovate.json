@@ -2,7 +2,7 @@
   "extends": [
     "config:base"
   ],
-  "baseBranches": ["updateDependencies"],
+  "baseBranches": ["updatedDependencies"],
   "timezone": "America/Lima",
   "schedule": [
     "after 10pm every weekday",
