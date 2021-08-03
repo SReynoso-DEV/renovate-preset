@@ -3,5 +3,5 @@
     "config:base"
   ],
   "baseBranches": ["updatedDependencies"],
-  "timezone": "America/Lima"
+  "labels": ["renovate", "dependencies"]
 }
